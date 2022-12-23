@@ -72,7 +72,9 @@ export default function MiddleOne() {
         })}
       </div>
       <div className="middle_one_rt">
-        <div></div>
+        <div
+          style={{ backgroundColor: '#e7e7e7', height: '8px', width: '8px' }}
+        ></div>
         <div></div>
         <div></div>
       </div>
