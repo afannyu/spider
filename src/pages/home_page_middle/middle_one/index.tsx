@@ -58,6 +58,7 @@ export default function MiddleOne() {
       <div className="middle_one_md">
         {middleOneList.map((item, index) => {
           return (
+            // 可复用的item
             <PublicItem
               borderTop={item.borderTop}
               title={item.title}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="39px" viewBox="0 0 93 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 52</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#35E770" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#35E770" offset="52.2269722%"></stop>
+            <stop stop-color="#35E770" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="先知系统数字驾驶舱" transform="translate(-932.000000, -458.000000)">
+            <g id="编组-35备份-8" transform="translate(891.272834, 458.000000)">
+                <g id="编组-52" transform="translate(40.727166, 0.000000)">
+                    <rect id="矩形备份-25" fill-opacity="0.5" fill="#000000" x="0" y="0" width="93" height="39"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="93" height="2"></rect>
+                    <rect id="矩形备份-4" fill="url(#linearGradient-1)" x="0" y="37" width="93" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
